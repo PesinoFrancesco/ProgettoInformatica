@@ -1,0 +1,53 @@
+mieifile package
+================
+
+Submodules
+----------
+
+mieifile.es\_01 module
+----------------------
+
+.. automodule:: mieifile.es_01
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+mieifile.es\_02 module
+----------------------
+
+.. automodule:: mieifile.es_02
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+mieifile.es\_03 module
+----------------------
+
+.. automodule:: mieifile.es_03
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+mieifile.es\_04 module
+----------------------
+
+.. automodule:: mieifile.es_04
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+mieifile.readline module
+------------------------
+
+.. automodule:: mieifile.readline
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: mieifile
+   :members:
+   :undoc-members:
+   :show-inheritance:
